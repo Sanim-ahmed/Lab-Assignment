@@ -1,4 +1,4 @@
-public class Constuctor2 {
+public class Dog {
     // Instance variables
     String name;
     String color;
@@ -18,4 +18,3 @@ public class Constuctor2 {
         System.out.println("Dog Name: " + myDog.name);
         System.out.println("Dog Color: " + myDog.color);
     }
-}
