@@ -1,4 +1,4 @@
-public class Constructor1 {
+public class Cat {
     
     String name;
     int age;
