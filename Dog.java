@@ -18,3 +18,4 @@ public class Dog {
         System.out.println("Dog Name: " + myDog.name);
         System.out.println("Dog Color: " + myDog.color);
     }
+}
